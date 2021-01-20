@@ -1,3 +1,5 @@
 Giraffe
 Elephant
 Chimpanzee
+Tiger
+Lion
